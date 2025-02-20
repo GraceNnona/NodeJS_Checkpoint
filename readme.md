@@ -1,0 +1,1 @@
+Here we have printed hello world to the console, created a server that runs on port 3000, created a file using the file system, installed a package that generates password and installed an email sender package using npm.
